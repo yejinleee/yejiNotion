@@ -1,8 +1,6 @@
 # 자체제작 노션
 
-### 배포 링크
-
-https://yejinotion-jcg2u8i4j-yejins-projects.vercel.app/
+### [바로가기📝📝](https://yejinotion.vercel.app/)
 
 ### 컴포넌트 구조
 
